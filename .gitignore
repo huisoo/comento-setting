@@ -1,0 +1,21 @@
+#Gradle
+.gradle/
+build/
+
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+/target/
+/out/
+logs/
+
+/src/main/webapp/META-INF
+/src/main/webapp/WEB-INF/classes
+#/src/main/webapp/WEB-INF/lib
